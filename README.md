@@ -16,7 +16,7 @@ HTML, and Dockerfile.
 ## Large-Scale Programming Projects!
 **[Stock Market Data Application](https://github.com/Muy-Fresco/labproject2.git)**:
 A Java program designed to handle stock market data. It's uses JSON to process data from 
-the APIs, and uses other applications such as JUNit for unit tests, Polygon API to fetch 
+the APIs, and uses other applications such as JUnit for unit tests, Polygon API to fetch 
 stock market data, and Maven for handling dependencies.
 
 ## Web Programming Projects!
