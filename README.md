@@ -19,4 +19,8 @@ HTML, and Dockerfile.
 **[Stock Market Data Application](https://github.com/Muy-Fresco/labproject2.git)**:
 A Java program designed to handle stock market data. It's uses JSON to process data from 
 the APIs, and uses other applications such as JUNit for unit tests, Polygon API to fetch 
-stock market data, and Maven for handling dependencies. 
+stock market data, and Maven for handling dependencies.
+
+## Web Programming Projects
+**[Bakery Website](https://github.com/Muy-Fresco/Lab5CSS.git)
+This project uses HTML and CSS to create a simple webpage for a bakery.   
