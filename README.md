@@ -22,5 +22,5 @@ the APIs, and uses other applications such as JUNit for unit tests, Polygon API 
 stock market data, and Maven for handling dependencies.
 
 ## Web Programming Projects
-**[Bakery Website](https://github.com/Muy-Fresco/Lab5CSS.git)
+**[Bakery Website](https://github.com/Muy-Fresco/Lab5CSS.git)**:
 This project uses HTML and CSS to create a simple webpage for a bakery.   
