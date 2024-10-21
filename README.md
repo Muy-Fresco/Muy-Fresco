@@ -6,7 +6,7 @@ GitHub repositories or live demos. This page is modified as
 successful projects are made. 
 
 ## Software Engineering Projects!
-**[AI-Assisted Recipe Builder](https://github.com/atteap/CSC395_Team1.git)**:
+**[AI-Powered Recipe Builder](https://github.com/atteap/CSC395_Team1.git)**:
 A web application that allows users to generate 
 AI-assisted recipes using company-specified ingredients. I 
 made a few implementations to the flask, but mainly focused 
