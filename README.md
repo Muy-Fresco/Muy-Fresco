@@ -1,8 +1,6 @@
 # My Projects Portfolio
 
-Welcome to my project portfolio! Here, you'll find a list of 
-my past projects, programming assignments, and other 
-miscalWelcome to my project portfolio! Here, you'll find a 
+Welcome to my project portfolio! Here, you'll find a 
 list of my past projects, with links to the respective 
 GitHub repositories or live demos. This page is modified as 
 successful projects are made. 
