@@ -6,6 +6,12 @@ GitHub repositories or live demos. This page is modified as
 successful projects are made. 
 
 ## Software Engineering Projects!
+**[Fitness Planner App!](https://github.com/CReynoso224/CSC395_Proj2_Fitness-Guru.git)**
+A web application that issues customized workouts 
+and meal plans based on your fitness goals. Built with
+Python, HTML, CSS, JavaScript, JSON, Dockerfile, and YML
+
+
 **[AI-Powered Recipe Builder](https://github.com/atteap/CSC395_Team1.git)**:
 A web application that allows users to generate 
 AI-assisted recipes using company-specified ingredients. I 
