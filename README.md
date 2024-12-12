@@ -9,7 +9,7 @@ successful projects are made.
 **[Fitness Planner App!](https://github.com/CReynoso224/CSC395_Proj2_Fitness-Guru.git)**
 A web application that issues customized workouts 
 and meal plans based on your fitness goals. Built with
-Python, HTML, CSS, JavaScript, JSON, Dockerfile, and YML
+Python, HTML, CSS, JavaScript, JSON, Dockerfile, and YML.
 
 
 **[AI-Powered Recipe Builder](https://github.com/atteap/CSC395_Team1.git)**:
