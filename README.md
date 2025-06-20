@@ -26,8 +26,10 @@ the APIs, and uses other applications such as JUnit for unit tests, Polygon API 
 stock market data, and Maven for handling dependencies.
 
 ## Web Programming Projects!
+**[Personal Smash Ultimate Practice App](https://github.com/Muy-Fresco/Personal-Practice-App)**
+This is a personalized note keeper app for smash ultimate competitiors that utilizes scripting languages to capture and display your notes for practice/tournament settings. It uses JSON files to access the notes, and recognize character names.
+
 **[Bakery Website](https://github.com/Muy-Fresco/Lab5CSS.git)**:
 This project uses HTML and CSS to create a simple webpage for a bakery.   
 
-**[Personal Smash Ultimate Practice App](https://github.com/Muy-Fresco/Personal-Practice-App)**:
-This is a personalized note keeper app for smash ultimate competitiors that utilizes scripting languages to capture and display your notes for practice/tournament settings. It uses JSON files to access the notes, and recognize character names.  
+
